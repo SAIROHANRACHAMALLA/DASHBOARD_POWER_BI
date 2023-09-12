@@ -5,6 +5,7 @@
 
 [analysis of sales and revenue in kochin in 2020 atliq hardware.pdf](https://github.com/SAIROHANRACHAMALLA/DASHBOARD_POWER_BI/files/12587152/analysis.of.sales.and.revenue.in.kochin.in.2020.atliq.hardware.pdf)
 
+[analysis.of.prod.316.in.2018.and.2020.separately.pdf](https://github.com/SAIROHANRACHAMALLA/DASHBOARD_POWER_BI/files/12587182/analysis.of.prod.316.in.2018.and.2020.separately.pdf)
 
 
 
