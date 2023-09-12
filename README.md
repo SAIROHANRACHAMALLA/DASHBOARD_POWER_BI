@@ -1,3 +1,6 @@
+![analysis of sales and revenue trend in 2017](https://github.com/SAIROHANRACHAMALLA/DASHBOARD_POWER_BI/assets/144776766/dcf59a7f-68e3-454f-b757-688152a57c10)
+[analysis of prod 316 in 2018 and 2020 separately.pdf](https://github.com/SAIROHANRACHAMALLA/DASHBOARD_POWER_BI/files/12586943/analysis.of.prod.316.in.2018.and.2020.separately.pdf)
+[analysis of sales and revenue trend in each year from 2017 to 2020.pdf](https://github.com/SAIROHANRACHAMALLA/DASHBOARD_POWER_BI/files/12586934/analysis.of.sales.and.revenue.trend.in.each.year.from.2017.to.2020.pdf)
 #SALES  INSIGHTS OF ATLIQ HARDWARE COMPANY USING DASHBOARD CREATED BY POWER BI .  
 
 PROBLEM STATEMENT : CEO of Atliq computer manufacturing company want to know the insights of his company sales in India. So when he enquire about the sales throught his regional managers he was given some figures .Overall all sales were decreasing when he compare the data shared by his managers and actual company revenue. He was unable to getting exact analysis of sales. 
