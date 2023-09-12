@@ -11,8 +11,8 @@ Steps followed by me in this project :
 3) Data cleaning : Removing irrelavent data from the collected data. I have removed data related to the market zone like Newyork , paris because we want to analyze the sales of atliq in India.
 4) Analyzing the data. I have analyzed the data using Power Bi. In my dashboard I have analyzed the trend between revenue , sales quantity in different market zone in different years. Also revenue trend with year.
 5) Feedback from my friends : Before completion of final dashboard I have show my dashboard to my friends in the intial stages and took their feedback in  terms of visual appearance and modified my dashboard.
-6) Crosschecking the data of dashboard. I have uesd mysql to cross check where  data from my dashboard is correct or not .
+6) Crosschecking the data of dashboard. I have used mysql to cross check whether  data from my dashboard is correct or not .
 
 So finally I have created a dashboard which helps the CEO of atliq hardware and the regional managers to know their revenue trend by one click.
 
-"A picture is worth a thousand words ". So data visualization of relavent data helps one analyze different insights of the data
+"A picture is worth a thousand words ". So data visualization of relavent data helps one analyze hidden insights of the data. 
