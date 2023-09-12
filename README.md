@@ -6,6 +6,7 @@
 
 
 
+
 #SALES  INSIGHTS OF ATLIQ HARDWARE COMPANY USING DASHBOARD CREATED BY POWER BI .  
 
 PROBLEM STATEMENT : CEO of Atliq computer manufacturing company want to know the insights of his company sales in India. So when he enquire about the sales throught his regional managers he was given some figures .Overall all sales were decreasing when he compare the data shared by his managers and actual company revenue. He was unable to getting exact analysis of sales. 
